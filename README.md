@@ -1,3 +1,8 @@
+| My Informal Profile |My Blog| 
+| ------------- | ------------- |
+| https://javiroman.github.io/ | https://www.dataintensive.info/  | 
+
+
 ### Repositories Summary
 
 | Working Areas |Repository| Description |
