@@ -7,9 +7,9 @@
 
 | Working Areas |Repository| Description |
 | ------------- | ------------- |------------- |
-| Apache NiFi  | https://github.com/javiroman/nifi  | Content Cell  |
-|   | https://github.com/javiroman/nifi-minifi  |Content Cell  |
-|   | https://github.com/javiroman/nifi-maven  |Content Cell  |
+| Apache NiFi  | https://github.com/javiroman/nifi  | Apache NiFi Fork for contributions  |
+|   | https://github.com/javiroman/nifi-minifi  |Apache MiNiFi Fork for contributions  |
+|   | https://github.com/javiroman/nifi-maven  | Apache NiFi NAR Maven Plugin for contributions |
 | Fedora Packages  | Repository  |Content Cell  |
 | Testbed Tools  | Repository |Content Cell  |
 | Misc Utilities  | Content Cell  |Content Cell  |
