@@ -1,6 +1,6 @@
 | My Informal Profile |My Blog| My Hobby|
 | ------------- | ------------- |------------- |
-| [Technical CV](https://javiroman.github.io) | [Big Data Blog](https://www.dataintensive.info)  | [Street Photograpy](https://www.viewbug.com/member/javiroman) |
+| [Technical CV](https://javiroman.github.io) | [Big Data Blog](https://www.dataintensive.info)  | [Street Photography](https://www.viewbug.com/member/javiroman) |
 
 
 ### Repositories Summary
@@ -20,6 +20,11 @@
 |                  | https://github.com/javiroman/disk-stress | Python Based Disk Stress tool for Kubernetes/Mesos limits testing |
 |                  | https://github.com/javiroman/system-stress | ANSI C based Host System Stress Tool |
 |                  | https://github.com/javiroman/k8shelloworld | Small Tools for exploring Kubernetes capabilities |
-| Misc Utilities   | Content Cell  |Content Cell  |
+| Misc    | https://github.com/javiroman/patternfly-react-seed-login  | React PatternFly Login Example |
+|     | https://github.com/javiroman/hpcservergridscheduler  |... |
+|     | https://github.com/javiroman/gridexecutor  |... |
+|     | https://github.com/javiroman/rlink  |... |
+
+
 
 
