@@ -7,23 +7,23 @@
 
 | Working Areas |Repository| Description |
 | ------------- | ------------- |------------- |
-| Apache NiFi      | https://github.com/javiroman/nifi  | **Apache NiFi** Fork for contributions  |
-|                  | https://github.com/javiroman/nifi-minifi  |**Apache MiNiFi** Fork for contributions  |
-|                  | https://github.com/javiroman/nifi-maven  | **Apache NiFi NAR Maven Plugin** for contributions |
-|                  | https://github.com/javiroman/minifi-tui | MiNiFi Text User Interface Research Project|
-|                  | https://github.com/javiroman/minifi-tui-framework | MiNiFi TUI Widgets Research Project|
-| Fedora Packages  | https://github.com/javiroman/mesos-rpm  | Apache Mesos Fedora Package |
-|                  | https://github.com/javiroman/zookeeper-rpm | Apache Zookeeper Fedora RPM Package |
-|                  | https://github.com/javiroman/yetus-rpm | Apache Yetus Fedora RPM Package |
-| Testbed Tools    | https://github.com/javiroman/docker-hadoop | Docker Compose definitions for Big Data Testing  |
-|                  | https://github.com/javiroman/dfsadmin-inotify | Hadoop DFSAdmin administrative API Java test  |
-|                  | https://github.com/javiroman/disk-stress | Python Based Disk Stress tool for Kubernetes/Mesos limits testing |
-|                  | https://github.com/javiroman/system-stress | ANSI C based Host System Stress Tool |
-|                  | https://github.com/javiroman/k8shelloworld | Small Tools for exploring Kubernetes capabilities |
-| Misc    | https://github.com/javiroman/patternfly-react-seed-login  | React PatternFly Login Example |
-|     | https://github.com/javiroman/hpcservergridscheduler  |... |
-|     | https://github.com/javiroman/gridexecutor  |... |
-|     | https://github.com/javiroman/rlink  |... |
+| Apache NiFi      | [nifi](https://github.com/javiromminifi-tui]an/nifi)  | **Apache NiFi** Fork for contributions  |
+|                  | [nifi-minifi](https://github.com(/javiroman/nifi-minifi)  |**Apache MiNiFi** Fork for contributions  |
+|                  | [nifi-maven](https://github.com/javiroman/nifi-maven)  | **Apache NiFi NAR Maven Plugin** for contributions |
+|                  | [minifi-tui](https://github.com/javiroman/minifi-tui) | MiNiFi Text User Interface Research Project|
+|                  | [minifi-tui-framework](https://github.com/javiroman/minifi-tui-framework) | MiNiFi TUI Widgets Research Project|
+| Fedora Packages  | [mesos-rpm](https://github.com/javiroman/mesos-rpm)  | Apache Mesos Fedora Package |
+|                  | [zookeeper-rpm](https://github.com/javiroman/zookeeper-rpm) | Apache Zookeeper Fedora RPM Package |
+|                  | [yetus-rpm](https://github.com/javiroman/yetus-rpm) | Apache Yetus Fedora RPM Package |
+| Testbed Tools    | [docker-hadoop](https://github.com/javiroman/docker-hadoop) | Docker Compose definitions for Big Data Testing  |
+|                  | [dfsadmin-inotify](https://github.com/javiroman/dfsadmin-inotify) | Hadoop DFSAdmin administrative API Java test  |
+|                  | [disk-stress](https://github.com/javiroman/disk-stress) | Python Based Disk Stress tool for Kubernetes/Mesos limits testing |
+|                  | [system-stress](https://github.com/javiroman/system-stress) | ANSI C based Host System Stress Tool |
+|                  | [k8shelloworld](https://github.com/javiroman/k8shelloworld) | Small Tools for exploring Kubernetes capabilities |
+| Misc    | [patternfly-react-seed-login](https://github.com/javiroman/patternfly-react-seed-login)  | React PatternFly Login Example |
+|     | [hpcservergridscheduler](https://github.com/javiroman/hpcservergridscheduler)  |... |
+|     | [gridexecutor](https://github.com/javiroman/gridexecutor)  |... |
+|     | [rlink](https://github.com/javiroman/rlink)  |... |
 
 
 
