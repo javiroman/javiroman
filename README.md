@@ -7,7 +7,7 @@
 
 | Working Areas |Repository| Description |
 | ------------- | ------------- |------------- |
-| Apache NiFi      | [nifi](https://github.com/javiromminifi-tui]an/nifi)  | **Apache NiFi** Fork for contributions  |
+| Apache NiFi      | [nifi](https://github.com/javiroman/nifi)  | **Apache NiFi** Fork for contributions  |
 |                  | [nifi-minifi](https://github.com(/javiroman/nifi-minifi)  |**Apache MiNiFi** Fork for contributions  |
 |                  | [nifi-maven](https://github.com/javiroman/nifi-maven)  | **Apache NiFi NAR Maven Plugin** for contributions |
 |                  | [minifi-tui](https://github.com/javiroman/minifi-tui) | MiNiFi Text User Interface Research Project|
