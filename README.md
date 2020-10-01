@@ -26,5 +26,3 @@
 |     | [rlink](https://github.com/javiroman/rlink)  | Makefile remote linking tool based on ICE RPC Framework |
 
 
-cr
-
