@@ -1,5 +1,3 @@
----
-
 | My Informal Profile |My Blog| My Hobby|
 | ------------- | ------------- |------------- |
 | [Technical CV](https://javiroman.github.io) | [Big Data Blog](https://www.dataintensive.info)  | [Street Photography](https://www.viewbug.com/member/javiroman) |
