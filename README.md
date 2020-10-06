@@ -2,6 +2,7 @@
 | ------------- | ------------- |------------- |
 | [Technical CV](https://javiroman.github.io) | [Big Data Blog](https://www.dataintensive.info)  | [Street Photography](https://www.viewbug.com/member/javiroman) |
 
+---
 
 ### Repositories Summary
 
@@ -25,4 +26,6 @@
 |     | [gridexecutor](https://github.com/javiroman/gridexecutor)  | HPC Grid Scheduler for Massive Remotely Command Execution based on ICE RPC Framework |
 |     | [rlink](https://github.com/javiroman/rlink)  | Makefile remote linking tool based on ICE RPC Framework |
 
+---
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javiroman&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
