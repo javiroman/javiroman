@@ -22,9 +22,12 @@
 |                  | [system-stress](https://github.com/javiroman/system-stress) | ANSI C based Host System Stress Tool |
 |                  | [k8shelloworld](https://github.com/javiroman/k8shelloworld) | Small Tools for exploring Kubernetes capabilities |
 | Misc    | [patternfly-react-seed-login](https://github.com/javiroman/patternfly-react-seed-login)  | React PatternFly Login Example |
-|     | [hpcservergridscheduler](https://github.com/javiroman/hpcservergridscheduler)  | HPC Grid Scheduler for Octave/Matlab based on ICE RPC Framework|
-|     | [gridexecutor](https://github.com/javiroman/gridexecutor)  | HPC Grid Scheduler for Massive Remotely Command Execution based on ICE RPC Framework |
-|     | [rlink](https://github.com/javiroman/rlink)  | Makefile remote linking tool based on ICE RPC Framework |
+|         | [hpcservergridscheduler](https://github.com/javiroman/hpcservergridscheduler)  | HPC Grid Scheduler for Octave/Matlab based on ICE RPC Framework |
+|         | [gridexecutor](https://github.com/javiroman/gridexecutor)  | HPC Grid Scheduler for Massive Remotely Command Execution based on ICE RPC Framework |
+|         | [rlink](https://github.com/javiroman/rlink)  | Makefile remote linking tool based on ICE RPC Framework |
+| Java PoCs    | [jremotewrite](https://github.com/javiroman/jremotewrite)  | Java Prometheus Remote Write Endpoint|
+|              | [jcsfcache](https://github.com/javiroman/jcsfcache)  | COW Caching Research based on Apache Commons Java Caching System (JCS)|
+|              | [jschexecute](https://github.com/javiroman/jschexecute)  | JSch Remote Execution Research |
 
 ---
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javiroman&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
