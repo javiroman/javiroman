@@ -13,6 +13,7 @@
 |                  | [nifi-maven](https://github.com/javiroman/nifi-maven)  | **Apache NiFi NAR Maven Plugin** for contributions |
 |                  | [minifi-tui](https://github.com/javiroman/minifi-tui) | MiNiFi Text User Interface Research Project|
 |                  | [minifi-tui-framework](https://github.com/javiroman/minifi-tui-framework) | MiNiFi TUI Widgets Research Project|
+|                  | [nifi-prometheus-bundle](https://github.com/javiroman/nifi-prometheus-bundle) |Apache NiFi Prometheus Remote Write Processor|
 | Fedora Packages  | [mesos-rpm](https://github.com/javiroman/mesos-rpm)  | Apache Mesos Fedora Package |
 |                  | [zookeeper-rpm](https://github.com/javiroman/zookeeper-rpm) | Apache Zookeeper Fedora RPM Package |
 |                  | [yetus-rpm](https://github.com/javiroman/yetus-rpm) | Apache Yetus Fedora RPM Package |
