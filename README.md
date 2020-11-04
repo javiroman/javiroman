@@ -8,9 +8,9 @@
 
 | Working Areas |Repository| Description |
 | ------------- | ------------- |------------- |
-| Apache NiFi      | [nifi](https://github.com/javiroman/nifi)  | **Apache NiFi** Fork for contributions  |
-|                  | [nifi-minifi](https://github.com/javiroman/nifi-minifi)  |**Apache MiNiFi** Fork for contributions  |
-|                  | [nifi-maven](https://github.com/javiroman/nifi-maven)  | **Apache NiFi NAR Maven Plugin** for contributions |
+| Apache NiFi      | [nifi](https://github.com/javiroman/nifi)  | **Apache NiFi** Fork for contributing  |
+|                  | [nifi-minifi](https://github.com/javiroman/nifi-minifi)  |**Apache MiNiFi** Fork for contributing  |
+|                  | [nifi-maven](https://github.com/javiroman/nifi-maven)  | **Apache NiFi NAR Maven Plugin** for contributing |
 |                  | [minifi-tui](https://github.com/javiroman/minifi-tui) | MiNiFi Text User Interface Research Project|
 |                  | [minifi-tui-framework](https://github.com/javiroman/minifi-tui-framework) | MiNiFi TUI Widgets Research Project|
 |                  | [nifi-prometheus-bundle](https://github.com/javiroman/nifi-prometheus-bundle) |Apache NiFi Prometheus Remote Write Processor|
