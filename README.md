@@ -29,6 +29,7 @@
 | Java PoCs    | [jremotewrite](https://github.com/javiroman/jremotewrite)  | Java Prometheus Remote Write Endpoint|
 |              | [jcsfcache](https://github.com/javiroman/jcsfcache)  | COW Caching Research based on Apache Commons Java Caching System (JCS)|
 |              | [jschexecute](https://github.com/javiroman/jschexecute)  | JSch Remote Execution Research |
+|              | [jreactapp](https://github.com/javiroman/jreactapp)  | Jetty, Jersey and ReactJS Spike |
 
 ---
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javiroman&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
