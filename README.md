@@ -33,6 +33,3 @@
 |              | [jschexecute](https://github.com/javiroman/jschexecute)  | JSch Remote Execution Research |
 |              | [jreactapp](https://github.com/javiroman/jreactapp)  | Jetty, Jersey and ReactJS Spike |
 |              | [jrtsp-client](https://github.com/javiroman/jrtsp-client)  | Java RTSP Client based on Netty NIO Framework |
-
----
-
