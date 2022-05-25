@@ -18,8 +18,6 @@
 |                  | [disk-stress](https://github.com/javiroman/disk-stress) | Python Based Disk Stress tool for Kubernetes/Mesos limits testing |
 |                  | [system-stress](https://github.com/javiroman/system-stress) | ANSI C based Host System Stress Tool |
 |                  | [k8shelloworld](https://github.com/javiroman/k8shelloworld) | Small Tools for exploring Kubernetes capabilities |
-|                  | [kudu-testbed](https://github.com/javiroman/kudu-testbed) | Apache Kudu/Impala without HDFS research environment |
-|                  | [ctakes-testbed](https://github.com/javiroman/ctakes-testbed) | Apache cTAKES NLP Medical Records research environment |
 |                  | [superset-testbed](https://github.com/kloudoop/superset-testbed) | Apache Superset BI research environment |
 |                  | [kubernetes-testbed](https://github.com/javiroman/kubernetes-testbed) | LSF Kubernetes research environment for Big Data |
 | Misc    | [patternfly-react-seed-login](https://github.com/javiroman/patternfly-react-seed-login)  | React PatternFly Login Example |
