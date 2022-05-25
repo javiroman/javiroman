@@ -18,7 +18,7 @@
 |                  | [disk-stress](https://github.com/javiroman/disk-stress) | Python Based Disk Stress tool for Kubernetes/Mesos limits testing |
 |                  | [system-stress](https://github.com/javiroman/system-stress) | ANSI C based Host System Stress Tool |
 |                  | [k8shelloworld](https://github.com/javiroman/k8shelloworld) | Small Tools for exploring Kubernetes capabilities |
-|                  | [superset-testbed](https://github.com/kloudoop/superset-testbed) | Apache Superset BI research environment |
+|                  | [TestBeds](https://github.com/javiroman/TestBeds) | Vagrant environments for technology testing  |
 |                  | [kubernetes-testbed](https://github.com/javiroman/kubernetes-testbed) | LSF Kubernetes research environment for Big Data |
 | Misc    | [patternfly-react-seed-login](https://github.com/javiroman/patternfly-react-seed-login)  | React PatternFly Login Example |
 |         | [hpcservergridscheduler](https://github.com/javiroman/hpcservergridscheduler)  | HPC Grid Scheduler for Octave/Matlab based on ICE RPC Framework |
