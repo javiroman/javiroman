@@ -8,6 +8,7 @@
 
 | Working Areas |Repository| Description |
 | ------------- | ------------- |------------- |
+| AntelopeDB Project | [antelopedb](https://github.com/javiroman/antelopedb)  | **AntelopeDB HTAP Project** fork for contributing  |
 | Apache NiFi      | [nifi](https://github.com/javiroman/nifi)  | **Apache NiFi** fork for contributing  |
 |                  | [nifi-prometheus-bundle](https://github.com/javiroman/nifi-prometheus-bundle) |Apache NiFi Prometheus Remote Write Processor|
 | Fedora Packages  | [mesos-rpm](https://github.com/javiroman/mesos-rpm)  | Apache Mesos Fedora Package |
