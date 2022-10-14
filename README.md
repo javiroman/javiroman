@@ -8,6 +8,7 @@
 
 | Working Areas |Repository| Description |
 | ------------- | ------------- |------------- |
+| Kubernetes Big Data Engineering Group | [kubernetes-big-data-eg](https://github.com/kubernetes-big-data-eg)  | Community resource for big data and data science related software projects |
 | AntelopeDB Project | [antelopedb](https://github.com/javiroman/antelopedb)  | **AntelopeDB HTAP Project** fork for contributing  |
 | Apache NiFi      | [nifi](https://github.com/javiroman/nifi)  | **Apache NiFi** fork for contributing  |
 |                  | [nifi-prometheus-bundle](https://github.com/javiroman/nifi-prometheus-bundle) |Apache NiFi Prometheus Remote Write Processor|
