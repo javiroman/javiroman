@@ -8,7 +8,7 @@
 
 | Working Areas |Repository| Description |
 | ------------- | ------------- |------------- |
-| Kubernetes Big Data Engineering Group | [kubernetes-big-data-eg](https://github.com/kubernetesbigdataeg)  | Community resource for big data and data science related software projects |
+| Kubernetes Big Data Engineering Group | [kubernetesbigdataeg](https://github.com/kubernetesbigdataeg)  | Community resource for big data and data science related software projects |
 | AntelopeDB Project | [antelopedb](https://github.com/javiroman/antelopedb)  | **AntelopeDB HTAP Project** fork for contributing  |
 | Apache NiFi      | [nifi](https://github.com/javiroman/nifi)  | **Apache NiFi** fork for contributing  |
 |                  | [nifi-prometheus-bundle](https://github.com/javiroman/nifi-prometheus-bundle) |Apache NiFi Prometheus Remote Write Processor|
@@ -21,7 +21,6 @@
 |                  | [system-stress](https://github.com/javiroman/system-stress) | ANSI C based Host System Stress Tool |
 |                  | [k8shelloworld](https://github.com/javiroman/k8shelloworld) | Small Tools for exploring Kubernetes capabilities |
 |                  | [TestBeds](https://github.com/javiroman/TestBeds) | Vagrant environments for technology testing  |
-|                  | [kubernetes-testbed](https://github.com/javiroman/kubernetes-testbed) | LSF Kubernetes research environment for Big Data |
 | Misc    | [patternfly-react-seed-login](https://github.com/javiroman/patternfly-react-seed-login)  | React PatternFly Login Example |
 |         | [hpcservergridscheduler](https://github.com/javiroman/hpcservergridscheduler)  | HPC Grid Scheduler for Octave/Matlab based on ICE RPC Framework |
 |         | [gridexecutor](https://github.com/javiroman/gridexecutor)  | HPC Grid Scheduler for Massive Remotely Command Execution based on ICE RPC Framework |
